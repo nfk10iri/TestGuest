@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\bin\Debug\c_sharp_app.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\bin\Debug\c_sharp_app.exe
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\bin\Debug\c_sharp_app.pdb
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.exe
+c:\users\admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.login_Form.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\c_sharp_app\c_sharp_app\obj\Debug\c_sharp_app.Form2.resources

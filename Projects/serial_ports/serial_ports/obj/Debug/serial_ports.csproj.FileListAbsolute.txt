@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\bin\Debug\serial_ports.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\bin\Debug\serial_ports.exe
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\bin\Debug\serial_ports.pdb
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.exe
+c:\users\admin\documents\visual studio 2012\Projects\serial_ports\serial_ports\obj\Debug\serial_ports.pdb
